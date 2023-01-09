@@ -1,7 +1,7 @@
 {
   "name": "osi4kjb-embed-checkout-form",
-  "version": "1.0.0",
-  "description": "A utility script that embeds Kajabi checkout forms inside any Kajabi site pages and product pages from the same domain name.",
+  "version": "2.0.0-beta.1",
+  "description": "A utility script that embeds Kajabi checkout forms inside any Kajabi site pages and product pages from the same Kajabi site.",
   "source": "src/ecf.js",
   "main": "dist/ecf.min.js",
   "scripts": {
