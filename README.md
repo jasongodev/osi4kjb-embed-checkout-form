@@ -1,3 +1,4 @@
+# DO NOT USE! UNDER DEVELOPMENT! USE MAIN BRANCH!
 # Embed Checkout Form in Kajabi Pages
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/osi4kjb-embed-checkout-form?color=blue&label=downloads&logo=jsdelivr)](https://www.jsdelivr.com/package/npm/osi4kjb-embed-checkout-form) [![GitHub](https://img.shields.io/github/license/jasongodev/osi4kjb-embed-checkout-form?&color=blue&logo=github)](LICENSE) [![](https://img.shields.io/badge/Code%20Style-Standard-brightgreen?logo=javascript)](https://standardjs.com/)
 
