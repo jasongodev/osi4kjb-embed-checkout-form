@@ -1,11 +1,22 @@
 {
   "name": "osi4kjb-embed-checkout-form",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A utility script that embeds Kajabi checkout forms inside any Kajabi site pages and product pages from the same domain name.",
+  "source": "src/ecf.js",
+  "main": "dist/ecf.min.js",
   "scripts": {
+    "build": "standard --fix && microbundle -f iife"
   },
-  "keywords": [],
+  "keywords": [
+    "osi4kjb",
+    "kajabi",
+    "checkout",
+    "ecf"
+  ],
   "author": "Jason Go",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "microbundle": "^0.15.1",
+    "standard": "^17.0.0"
+  }
 }
