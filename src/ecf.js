@@ -159,31 +159,3 @@ ${panelheadstyle}`
     }
   })
 })()
-
-/*
-Change Log:
-
-1.0.4
-- Coupon codes can now be included in the ECF() function.
-
-1.0.3
-- Bug fix for missing elements that needs to be deleted, causing runtime error
-- Updated iframeresizer and animate.css
-
-1.0.2
-- Added style compatibility with 2-Step Checkout Styler
-- Main script src changed to https://codex.jasongo.net/ecf.js
-- Compatibility with Sweetcher
-
-1.0.1
-- Iframe resizer's heightCalculationMethod changed to 'taggedElement'
-- Tagged element is $('#new_checkout_offer')[0].setAttribute('data-iframe-height', '');
-- New height calculation makes ECF Safari compatible
-
-1.0.0
-- Initial stable release
-- davidjbradshaw/iframe-resizer is used to automatically resize checkout form
-
-0.0.1
-- Beta release
-*/
