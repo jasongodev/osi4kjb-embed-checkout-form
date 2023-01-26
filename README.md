@@ -1,5 +1,5 @@
 # Embed Checkout Form in Kajabi Pages
-[![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/osi4kjb-embed-checkout-form?color=blue&label=downloads&logo=jsdelivr)](https://www.jsdelivr.com/package/npm/osi4kjb-embed-checkout-form) [![GitHub](https://img.shields.io/github/license/jasongodev/osi4kjb-embed-checkout-form?&color=blue&logo=github)](LICENSE) [![](https://img.shields.io/badge/Code%20Style-Standard-brightgreen?logo=javascript)](https://standardjs.com/)
+[![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/osi4kjb-embed-checkout-form?color=blue&label=downloads&logo=jsdelivr)](https://www.jsdelivr.com/package/npm/osi4kjb-embed-checkout-form) [![GitHub](https://img.shields.io/github/license/jasongodev/osi4kjb-embed-checkout-form?&color=blue&logo=github)](LICENSE) [![CodeQL](https://github.com/jasongodev/osi4kjb-embed-checkout-form/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/jasongodev/osi4kjb-embed-checkout-form/actions/workflows/github-code-scanning/codeql) [![](https://img.shields.io/badge/Code%20Style-Standard-brightgreen?logo=javascript)](https://standardjs.com/)
 
 Popularly known as the ECF script, this utility script makes it easy to embed Kajabi checkout forms inside any Kajabi site pages and product pages from the same Kajabi site.
 
